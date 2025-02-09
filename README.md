@@ -37,6 +37,6 @@ Feel free to reach out if you want to chat about tech, collaborate on a project,
 - 🌐 Website WIP: [site.avelc.ru](https://site.avelc.ru)
 - 💼 LinkStack: [@Avelc](https://linksta.cc/@Avelc)
 - 🐦 Twitter: [@avelcius_](https://twitter.com/avelcius_)
-- 🎮 Discord: Avelcius#1234
+- 🎮 Discord: Avelcius
   
 Thank you for visiting my profile!
