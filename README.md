@@ -33,10 +33,10 @@ Feel free to reach out if you want to chat about tech, collaborate on a project,
 
 ## Let's Connect
 
-- 📧 Email: [avelcius@example.com](mailto:avelcius@example.com)
-- 🌐 Personal Website: [avelcius.dev](https://avelcius.dev)
-- 💼 LinkedIn: [linkedin.com/in/avelcius](https://www.linkedin.com/in/avelcius)
-- 🐦 Twitter: [@avelcius](https://twitter.com/avelcius)
+- 📧 Email: [avelcius.ds@gmail.com](mailto:avelcius.ds@gmail.com)
+- 🌐 Website WIP: [site.avelc.ru](https://site.avelc.ru)
+- 💼 LinkStack: [@Avelc](https://linksta.cc/@Avelc)
+- 🐦 Twitter: [@avelcius_](https://twitter.com/avelcius_)
 - 🎮 Discord: Avelcius#1234
-
-Thanks for stopping by my profile!
+  
+Thank you for visiting my profile!
