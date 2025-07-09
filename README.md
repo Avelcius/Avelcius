@@ -31,6 +31,11 @@ Feel free to reach out if you want to chat about tech, collaborate on a project,
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Avelcius&theme=dracula)
 
+## Other
+
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vom3szglscqkovo3dxgerxxuca&cover_image=true&theme=default&show_offline=false&background_color=025f11&interchange=false&bar_color_cover=true)
+![Osu](https://osu-sig.vercel.app/card?user=avelc&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=125&skills=true)
+
 ## Let's Connect
 
 - 📧 Email: [avelcius.ds@gmail.com](mailto:avelcius.ds@gmail.com)
