@@ -39,7 +39,7 @@ Feel free to reach out if you want to chat about tech, collaborate on a project,
 ## Let's Connect
 
 - 📧 Email: [avelcius.ds@gmail.com](mailto:avelcius.ds@gmail.com)
-- 🌐 Website WIP: [site.avelc.ru](https://avelc.pages.dev)
+- 🌐 Website WIP: [Link](https://avelc.pages.dev)
 - 💼 LinkStack: [@Avelc](https://linksta.cc/@Avelc)
 - 🐦 Twitter: [@avelcius_](https://twitter.com/avelcius_)
 - 🎮 Discord: Avelcius
