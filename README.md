@@ -35,6 +35,8 @@ Feel free to reach out if you want to chat about tech, collaborate on a project,
 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vom3szglscqkovo3dxgerxxuca&cover_image=true&theme=default&show_offline=false&background_color=025f11&interchange=false&bar_color_cover=true)
 ![Osu](https://osu-sig.vercel.app/card?user=avelc&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=125&skills=true)
+[![Ргп](http://huggle.jdf2.org/sig/Avelc.png)](http://huggle.jdf2.org/hug/Avelc)
+
 
 ## Let's Connect
 
